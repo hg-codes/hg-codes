@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Goyal</h1>
-<h3 align="center">ECE Sophomore @ IIIT Hyderabad</h3>
+<h3 align="center">ECE Senior @ IIIT Hyderabad</h3>
 
 
 <h3 align="left">Connect with me:</h3>
